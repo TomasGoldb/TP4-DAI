@@ -11,6 +11,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "country-to-currency": "^2.0.2",
+    "currency-codes": "^2.2.0",
     "fs": "^0.0.1-security"
   }
 }
